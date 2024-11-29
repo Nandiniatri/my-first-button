@@ -1,0 +1,23 @@
+{
+  "name": "my-first-button",
+  "version": "1.0.0",
+  "description": "An npm package of button",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandiniatri/my-first-button.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nandini Atri",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nandiniatri/my-first-button/issues"
+  },
+  "homepage": "https://github.com/Nandiniatri/my-first-button#readme"
+}
